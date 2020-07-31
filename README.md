@@ -48,3 +48,5 @@ Voraussichtlich werden die Daten alle zwei Wochen aktualisiert werden.
 | __conotext_cat__     | Ansteckungskontext Kategorie | Text |
 | __n_conf__       | Anzahl Fälle | Number |
 | __perc_conf__       | Anteil der Kategorie am Total aller Fälle  | Number |
+
+Ohne Angabe beim Ansteckungskontext meint: Bekannte infizierende Person, aber ohne Angabe des Kontexts. 
