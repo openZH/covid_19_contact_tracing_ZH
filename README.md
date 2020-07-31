@@ -41,7 +41,7 @@ Voraussichtlich werden die Daten alle zwei Wochen aktualisiert werden.
 ## Für Ansteckungswege.csv
 
 | __Field Name__          | __Description__                                | __Format__     |
-|---------------------|--------------------------------------------|------------|--|
+|---------------------|--------------------------------------------|------------|
 | __from__              | Anfangsdatum des ausgewerteten Zeitraums | YYYY-MM-DD |
 | __until__              | Enddatum des ausgewerteten Zeitraums | YYYY-MM-DD |
 | __context_bool__ | Ansteckungsweg ist eindeutig / ncit eindeutig | Text |
