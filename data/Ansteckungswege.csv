@@ -1,0 +1,15 @@
+context_bool,context_cat,n_conf,perc_conf
+Nicht eindeutig,,198,65.13157894736842
+Eindeutig,Eigener Haushalt,48,15.789473684210526
+Eindeutig,Arbeitsplatz,15,4.934210526315789
+Eindeutig,Im Haushalt von Freunden / Familie,11,3.618421052631579
+Eindeutig,Internationale Reise,8,2.631578947368421
+Eindeutig,Pflegeheim,5,1.644736842105263
+Eindeutig,Krippe,4,1.3157894736842104
+Eindeutig,Restaurant,4,1.3157894736842104
+Eindeutig,Club / Bar,2,0.6578947368421052
+Eindeutig,Verein,2,0.6578947368421052
+Eindeutig,Medizin. Einrichtung,1,0.3289473684210526
+Eindeutig,Sport im Freien,1,0.3289473684210526
+Eindeutig,Sportverein,1,0.3289473684210526
+Eindeutig,"Bekannte infizierende Person, aber ohne Angabe des Kontexts",4,1.3157894736842104
