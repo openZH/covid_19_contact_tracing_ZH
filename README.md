@@ -1,4 +1,4 @@
-# Data from the SARS-CoV-2 Contact Tracing in the Canton of Zurich
+# Daten aus dem SARS-CoV-2 Contact Tracing im Kanton Zürich
 
 <img src="https://github.com/openZH/covid_19/blob/master/statistisches_amt_kt_zh.png" alt="OpenZH-logo" width="180"/>
 <img src="https://github.com/openZH/covid_19/blob/master/gd.png" alt="GD-logo" width="200"/>
@@ -31,10 +31,20 @@ Für Fragen zur Bereitstellung der Daten erreichen Sie die [Fach- und Koordinati
 - https://twitter.com/OpenDataZH (follow us, we send you a private Direct Message, thanks!)
 - info@open.zh.ch
 
-# Data Updates
+# Datenaktualisierung
+
+Voraussichtlich werden die Daten alle zwei Wochen aktualisiert werden.
 
 
+# Datenstruktur
 
+## Für Ansteckungswege.csv
 
-# Data structure
-
+| __Field Name__          | __Description__                                | __Format__     |
+|---------------------|--------------------------------------------|------------|--|
+| __from__              | Anfangsdatum des ausgewerteten Zeitraums | YYYY-MM-DD |
+| __until__              | Enddatum des ausgewerteten Zeitraums | YYYY-MM-DD |
+| __context_bool__ | Ansteckungsweg ist eindeutig / ncit eindeutig | Text |
+| __conotext_cat__     | Ansteckungskontext Kategorie | Text |
+| __n_conf__       | Anzahl Fälle | Number |
+| __perc_conf__       | Anteil der Kategorie am Total aller Fälle  | Number |
