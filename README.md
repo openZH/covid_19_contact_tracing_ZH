@@ -1,7 +1,7 @@
 # Daten aus dem SARS-CoV-2 Contact Tracing im Kanton Zürich
 
-<img src="https://github.com/openZH/covid_19/blob/master/statistisches_amt_kt_zh.png" alt="OpenZH-logo" width="180"/>
 <img src="https://github.com/openZH/covid_19/blob/master/gd.png" alt="GD-logo" width="200"/>
+<img src="https://github.com/openZH/covid_19/blob/master/statistisches_amt_kt_zh.png" alt="OpenZH-logo" width="180"/>
 
 [![GitHub commit](https://img.shields.io/github/last-commit/openZH/covid_19)](https://github.com/openZH/covid_19_contact_tracing_ZH/commits/master)
 
@@ -24,7 +24,7 @@
 
 Wir Stellen die Daten im Auftrag der [Gesundheitsdirektion des Kantons Zürich](https://www.zh.ch/de/gesundheit/coronavirus.html) zur freien Wiederverwendung zur Verfügung. 
 
-Für Inhaltliche Fragen wenden Sie sich bitte an die Gesundheitsddirektion:
+Für inhaltliche Fragen wenden Sie sich bitte an die Gesundheitsddirektion:
 gdstab@gd.zh.ch
 
 Für Fragen zur Bereitstellung der Daten erreichen Sie die [Fach- und Koordinationsstelle OGD](https://www.zh.ch/de/politik-staat/opendata.html?keyword=ogd#/home) unter:
