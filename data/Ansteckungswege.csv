@@ -12,4 +12,4 @@ from,until,context_bool,context_cat,n_conf,perc_conf
 2020-07-15,2020-07-28,Eindeutig,Medizin. Einrichtung,1,0.3289473684210526
 2020-07-15,2020-07-28,Eindeutig,Sport im Freien,1,0.3289473684210526
 2020-07-15,2020-07-28,Eindeutig,Sportverein,1,0.3289473684210526
-2020-07-15,2020-07-28,Eindeutig,"Bekannte infizierende Person, aber ohne Angabe des Kontexts",4,1.3157894736842104
+2020-07-15,2020-07-28,Eindeutig,"Ohne Angabe",4,1.3157894736842104
