@@ -5,6 +5,8 @@
 
 [![GitHub commit](https://img.shields.io/github/last-commit/openZH/covid_19)](https://github.com/openZH/covid_19_contact_tracing_ZH/commits/master)
 
+**Dies ist eine Beta-Version. Wir werden kontinuierlich an der Aufarbeitung und Verbesserung der zur Verfügung stehenden Datengrundlage arbeiten.**
+
 # Definitionen
 - Als «nicht eindeutig» gilt ein Ansteckungskontext, wenn die befragte Person nicht weiss, bei wem sie sich angesteckt hat resp. die Frage, ob sie in Kontakt mit einer später auf das Coronavirus positiv getesteten Person war, verneint.
 
