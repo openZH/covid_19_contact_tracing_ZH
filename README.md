@@ -8,7 +8,7 @@
 **Dies ist eine Beta-Version. Wir werden kontinuierlich an der Aufarbeitung und Verbesserung der zur Verfügung stehenden Datengrundlage arbeiten.**
 
 # Definitionen
-- Als «nicht eindeutig» gilt ein Ansteckungskontext, wenn die befragte Person nicht weiss, bei wem sie sich angesteckt hat resp. die Frage, ob sie in Kontakt mit einer später auf das Coronavirus positiv getesteten Person war, verneint.
+- Als «nicht eindeutig» gilt ein Ansteckungskontext, wenn die befragte Person nicht weiss, bei wem sie sich angesteckt hat resp. die Frage, ob sie in Kontakt mit einer auf das Coronavirus positiv getesteten Person war, verneint.
 
 - Nur wenn der Ansteckungsweg eindeutig ist, wird nach dem Ansteckungskontext (Eigener Haushalt, Arbeitsplatz, usw.) differenziert. 
 
