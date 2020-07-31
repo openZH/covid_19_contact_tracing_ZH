@@ -5,13 +5,27 @@
 
 [![GitHub commit](https://img.shields.io/github/last-commit/openZH/covid_19)](https://github.com/openZH/covid_19_contact_tracing_ZH/commits/master)
 
-# 
+# Definitionen
+- Als «nicht eindeutig» gilt ein Ansteckungskontext, wenn die befragte Person nicht weiss, bei wem sie sich angesteckt hat resp. die Frage, ob sie in Kontakt mit einer später auf das Coronavirus positiv getesteten Person war, verneint.
+
+- Nur wenn der Ansteckungsweg eindeutig ist, wird nach dem Ansteckungskontext (Eigener Haushalt, Arbeitsplatz, usw.) differenziert. 
+
+- Dass ein Ansteckungskontext als eindeutig klassifiziert wird, ist umso wahrscheinlicher, je klarer andere Personen zu diesem Ansteckungskontext zugeordnet werden können. Beispiel: Eine Ansteckung im eigenen Haushalt wird viel eher als eindeutig klassifiziert als eine Ansteckung beim Sport im Freien.
+
+- Diese Daten erlauben keine Aussage über Ansteckungskontexte von Personen, die nicht eindeutig wissen, bei wem sie sich angesteckt haben.
+
+- Die Interpretation der Daten soll folglich zurückhaltend erfolgen, da ein grosser Spielraum für Fehlinterpretationen besteht.
 
 
 
+# Bei Fragen
 
+Wir Stellen die Daten im Auftrag der GEsundheitsdirektion des Kantons Zürich zur freien Wiederverwendung zur Verfügung. 
 
-We are available to advise and support interested authorities, how to easily complete both historized data, and missing columns. You can reach us:
+Für Inhaltliche Fragen wenden Sie sich bitte an die Gesundheitsddirektion:
+mailto:gdstab@gd.zh.ch
+
+Für Fragen zur BEreitstellung der Daten erreichen Sie die Fach- und Koordinationsstelle OGD unter:
 - https://twitter.com/OpenDataZH (follow us, we send you a private Direct Message, thanks!)
 - mailto:info@open.zh.ch
 
