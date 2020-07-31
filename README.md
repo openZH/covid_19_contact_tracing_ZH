@@ -23,11 +23,11 @@
 Wir Stellen die Daten im Auftrag der [Gesundheitsdirektion des Kantons Zürich](https://www.zh.ch/de/gesundheit/coronavirus.html) zur freien Wiederverwendung zur Verfügung. 
 
 Für Inhaltliche Fragen wenden Sie sich bitte an die Gesundheitsddirektion:
-mailto:gdstab@gd.zh.ch
+gdstab@gd.zh.ch
 
 Für Fragen zur Bereitstellung der Daten erreichen Sie die [Fach- und Koordinationsstelle OGD](https://www.zh.ch/de/politik-staat/opendata.html?keyword=ogd#/home) unter:
 - https://twitter.com/OpenDataZH (follow us, we send you a private Direct Message, thanks!)
-- mailto:info@open.zh.ch
+- info@open.zh.ch
 
 # Data Updates
 
