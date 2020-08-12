@@ -22,7 +22,7 @@
 
 # Bei Fragen
 
-Wir Stellen die Daten im Auftrag der [Gesundheitsdirektion des Kantons Zürich](https://www.zh.ch/de/gesundheit/coronavirus.html) zur freien Wiederverwendung zur Verfügung. 
+Wir stellen die Daten im Auftrag der [Gesundheitsdirektion des Kantons Zürich](https://www.zh.ch/de/gesundheit/coronavirus.html) zur freien Wiederverwendung zur Verfügung. 
 
 Für inhaltliche Fragen wenden Sie sich bitte an die Gesundheitsddirektion:
 gdstab@gd.zh.ch
@@ -44,8 +44,8 @@ Voraussichtlich werden die Daten alle zwei Wochen aktualisiert werden.
 |---------------------|--------------------------------------------|------------|
 | __from__              | Anfangsdatum des ausgewerteten Zeitraums | YYYY-MM-DD |
 | __until__              | Enddatum des ausgewerteten Zeitraums | YYYY-MM-DD |
-| __context_bool__ | Ansteckungsweg ist eindeutig / ncit eindeutig | Text |
-| __conotext_cat__     | Ansteckungskontext Kategorie | Text |
+| __context_bool__ | Ansteckungsweg ist eindeutig / nicht eindeutig | Text |
+| __context_cat__     | Ansteckungskontext Kategorie | Text |
 | __n_conf__       | Anzahl Fälle | Number |
 | __perc_conf__       | Anteil der Kategorie am Total aller Fälle  | Number |
 
