@@ -1,21 +1,25 @@
-from,until,context_bool,context_cat,n_conf,perc_conf
-2020-05-11,2020-08-19,Nicht eindeutig,,1158,65.16601012943163
-2020-05-11,2020-08-19,Eindeutig,Eigener Haushalt,304,17.10748452447946
-2020-05-11,2020-08-19,Eindeutig,Im Haushalt von Freunden / Familie,71,3.995498030388295
-2020-05-11,2020-08-19,Eindeutig,Internationale Reise,70,3.9392234102419805
-2020-05-11,2020-08-19,Eindeutig,Arbeitsplatz,62,3.489026449071469
-2020-05-11,2020-08-19,Eindeutig,Club / Bar,20,1.1254924029262803
-2020-05-11,2020-08-19,Eindeutig,Pflegeheim,9,0.5064715813168261
-2020-05-11,2020-08-19,Eindeutig,Hotel oder andere Unterkunft,8,0.4501969611705121
-2020-05-11,2020-08-19,Eindeutig,Krippe,8,0.4501969611705121
-2020-05-11,2020-08-19,Eindeutig,Restaurant,7,0.39392234102419804
-2020-05-11,2020-08-19,Eindeutig,Verein,7,0.39392234102419804
-2020-05-11,2020-08-19,Eindeutig,Veranstaltung / Feier,6,0.3376477208778841
-2020-05-11,2020-08-19,Eindeutig,Medizin. Einrichtung,4,0.22509848058525606
-2020-05-11,2020-08-19,Eindeutig,"Zoo, Gärten",2,0.11254924029262803
-2020-05-11,2020-08-19,Eindeutig,"Friseur, Massage o.ä.",1,0.056274620146314014
-2020-05-11,2020-08-19,Eindeutig,Schule,1,0.056274620146314014
-2020-05-11,2020-08-19,Eindeutig,Sport im Freien,1,0.056274620146314014
-2020-05-11,2020-08-19,Eindeutig,Sport in der Halle,1,0.056274620146314014
-2020-05-11,2020-08-19,Eindeutig,Sonstige,12,0.6752954417557682
-2020-05-11,2020-08-19,Eindeutig,Ohne Angabe,25,1.4068655036578503
+from,until,context_bool,context_cat,n_conf,perc_conf,sort
+2020-05-14,2020-08-26,Nicht eindeutig,,1419,64.5,0
+2020-05-14,2020-08-26,Eindeutig,Eigener Haushalt,367,16.7,1
+2020-05-14,2020-08-26,Eindeutig,Im Haushalt von Freunden / Familie,87, 4.0,2
+2020-05-14,2020-08-26,Eindeutig,Arbeitsplatz,77, 3.5,3
+2020-05-14,2020-08-26,Eindeutig,Schule,3,< 0.5,4
+2020-05-14,2020-08-26,Eindeutig,Krippe,8,< 0.5,5
+2020-05-14,2020-08-26,Eindeutig,Reise Ausland,89, 4.0,6
+2020-05-14,2020-08-26,Eindeutig,Reise Schweiz,5,< 0.5,7
+2020-05-14,2020-08-26,Eindeutig,Hotel oder andere Unterkunft,9,< 0.5,8
+2020-05-14,2020-08-26,Eindeutig,Schul- oder Ferienlager,1,< 0.5,9
+2020-05-14,2020-08-26,Eindeutig,Club / Bar,33, 1.5,10
+2020-05-14,2020-08-26,Eindeutig,Restaurant,8,< 0.5,11
+2020-05-14,2020-08-26,Eindeutig,Veranstaltung / Feier,11, 0.5,12
+2020-05-14,2020-08-26,Eindeutig,Verein,3,< 0.5,13
+2020-05-14,2020-08-26,Eindeutig,Religiöses / Beerdigungen,1,< 0.5,14
+2020-05-14,2020-08-26,Eindeutig,Pflegeheim,10,< 0.5,15
+2020-05-14,2020-08-26,Eindeutig,Medizin. Einrichtung,8,< 0.5,16
+2020-05-14,2020-08-26,Eindeutig,"Friseur, Massage o.ä.",1,< 0.5,17
+2020-05-14,2020-08-26,Eindeutig,Sport in der Halle,6,< 0.5,18
+2020-05-14,2020-08-26,Eindeutig,Sport im Freien,8,< 0.5,19
+2020-05-14,2020-08-26,Eindeutig,Sonstige Freizeitaktivität drinnen,9,< 0.5,20
+2020-05-14,2020-08-26,Eindeutig,Sonstige Freizeitaktivität draussen,11, 0.5,21
+2020-05-14,2020-08-26,Eindeutig,Sonstige,3,< 0.5,22
+2020-05-14,2020-08-26,Eindeutig,Ohne Angabe,23, 1.0,23
