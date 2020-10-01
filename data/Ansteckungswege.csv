@@ -1,39 +1,66 @@
 from,until,context_bool,context_cat,n_conf,perc_conf,sort
-2020-09-10,2020-09-23,Nicht eindeutig,,349,60.5,0
-2020-09-10,2020-09-23,Eindeutig,Eigener Haushalt,98,17.0,1
-2020-09-10,2020-09-23,Eindeutig,Im Haushalt von Freunden / Familie,28, 4.9,2
-2020-09-10,2020-09-23,Eindeutig,Arbeitsplatz,24, 4.2,3
-2020-09-10,2020-09-23,Eindeutig,Sekundarstufe II / Hochschule / Weiterbildungsstätte,6, 1.0,4
-2020-09-10,2020-09-23,Eindeutig,Obligatorische Schule,4, 0.7,5
+2020-09-17,2020-09-30,Nicht eindeutig,,555,66.6,0
+2020-09-17,2020-09-30,Eindeutig,Eigener Haushalt,125,15.0,1
+2020-09-17,2020-09-30,Eindeutig,Im Haushalt von Freunden / Familie,20, 2.4,2
+2020-09-17,2020-09-30,Eindeutig,Arbeitsplatz,25, 3.0,3
+2020-09-17,2020-09-30,Eindeutig,Sekundarstufe II / Hochschule / Weiterbildungsstätte,6, 0.7,4
+2020-09-17,2020-09-30,Eindeutig,Obligatorische Schule,3,< 0.5,5
+2020-09-17,2020-09-30,Eindeutig,Krippe,0,0,6
+2020-09-17,2020-09-30,Eindeutig,Reise Ausland,13, 1.6,7
+2020-09-17,2020-09-30,Eindeutig,Reise Schweiz,2,< 0.5,8
+2020-09-17,2020-09-30,Eindeutig,Hotel oder andere Unterkunft,0,0,9
+2020-09-17,2020-09-30,Eindeutig,Schul- oder Ferienlager,0,0,10
+2020-09-17,2020-09-30,Eindeutig,Club / Bar,12, 1.4,11
+2020-09-17,2020-09-30,Eindeutig,Restaurant,11, 1.3,12
+2020-09-17,2020-09-30,Eindeutig,Kino / Theater / Konzert,0,0,13
+2020-09-17,2020-09-30,Eindeutig,Veranstaltung / Feier < 300 Pers.,19, 2.3,14
+2020-09-17,2020-09-30,Eindeutig,Religiöses / Beerdigungen,2,< 0.5,16
+2020-09-17,2020-09-30,Eindeutig,Verein,2,< 0.5,17
+2020-09-17,2020-09-30,Eindeutig,Pflege- / Altersheim,1,< 0.5,18
+2020-09-17,2020-09-30,Eindeutig,Medizin. Einrichtung,12, 1.4,19
+2020-09-17,2020-09-30,Eindeutig,"Friseur, Massage o.ä.",0,0,20
+2020-09-17,2020-09-30,Eindeutig,Sport in der Halle,2,< 0.5,21
+2020-09-17,2020-09-30,Eindeutig,Sport im Freien,6, 0.7,22
+2020-09-17,2020-09-30,Eindeutig,Sonstige Freizeitaktivität drinnen,4,< 0.5,23
+2020-09-17,2020-09-30,Eindeutig,Sonstige Freizeitaktivität draussen,0,0,24
+2020-09-17,2020-09-30,Eindeutig,Einkaufen (Läden/Markt),0,0,25
+2020-09-17,2020-09-30,Eindeutig,Sonstige,3,< 0.5,26
+2020-09-17,2020-09-30,Eindeutig,Ohne Angabe,10, 1.2,27
+2020-09-10,2020-09-23,Nicht eindeutig,,504,61.2,0
+2020-09-10,2020-09-23,Eindeutig,Eigener Haushalt,138,16.8,1
+2020-09-10,2020-09-23,Eindeutig,Im Haushalt von Freunden / Familie,33, 4.0,2
+2020-09-10,2020-09-23,Eindeutig,Arbeitsplatz,35, 4.3,3
+2020-09-10,2020-09-23,Eindeutig,Sekundarstufe II / Hochschule / Weiterbildungsstätte,8, 1.0,4
+2020-09-10,2020-09-23,Eindeutig,Obligatorische Schule,5, 0.6,5
 2020-09-10,2020-09-23,Eindeutig,Krippe,2,< 0.5,6
-2020-09-10,2020-09-23,Eindeutig,Reise Ausland,8, 1.4,7
-2020-09-10,2020-09-23,Eindeutig,Reise Schweiz,1,< 0.5,8
+2020-09-10,2020-09-23,Eindeutig,Reise Ausland,14, 1.7,7
+2020-09-10,2020-09-23,Eindeutig,Reise Schweiz,2,< 0.5,8
 2020-09-10,2020-09-23,Eindeutig,Hotel oder andere Unterkunft,1,< 0.5,9
 2020-09-10,2020-09-23,Eindeutig,Schul- oder Ferienlager,0,0,10
 2020-09-10,2020-09-23,Eindeutig,Club / Bar,2,< 0.5,11
-2020-09-10,2020-09-23,Eindeutig,Restaurant,10, 1.7,12
+2020-09-10,2020-09-23,Eindeutig,Restaurant,10, 1.2,12
 2020-09-10,2020-09-23,Eindeutig,Kino / Theater / Konzert,0,0,13
-2020-09-10,2020-09-23,Eindeutig,Veranstaltung / Feier < 300 Pers.,10, 1.7,14
+2020-09-10,2020-09-23,Eindeutig,Veranstaltung / Feier < 300 Pers.,20, 2.4,14
 2020-09-10,2020-09-23,Eindeutig,Religiöses / Beerdigungen,1,< 0.5,16
-2020-09-10,2020-09-23,Eindeutig,Verein,0,0,17
-2020-09-10,2020-09-23,Eindeutig,Pflege- / Altersheim,1,< 0.5,18
-2020-09-10,2020-09-23,Eindeutig,Medizin. Einrichtung,5, 0.9,19
+2020-09-10,2020-09-23,Eindeutig,Verein,2,< 0.5,17
+2020-09-10,2020-09-23,Eindeutig,Pflege- / Altersheim,2,< 0.5,18
+2020-09-10,2020-09-23,Eindeutig,Medizin. Einrichtung,13, 1.6,19
 2020-09-10,2020-09-23,Eindeutig,"Friseur, Massage o.ä.",0,0,20
 2020-09-10,2020-09-23,Eindeutig,Sport in der Halle,0,0,21
-2020-09-10,2020-09-23,Eindeutig,Sport im Freien,5, 0.9,22
-2020-09-10,2020-09-23,Eindeutig,Sonstige Freizeitaktivität drinnen,3, 0.5,23
+2020-09-10,2020-09-23,Eindeutig,Sport im Freien,6, 0.7,22
+2020-09-10,2020-09-23,Eindeutig,Sonstige Freizeitaktivität drinnen,4,< 0.5,23
 2020-09-10,2020-09-23,Eindeutig,Sonstige Freizeitaktivität draussen,2,< 0.5,24
 2020-09-10,2020-09-23,Eindeutig,Einkaufen (Läden/Markt),1,< 0.5,25
 2020-09-10,2020-09-23,Eindeutig,Sonstige,1,< 0.5,26
-2020-09-10,2020-09-23,Eindeutig,Ohne Angabe,15, 2.6,27
-2020-09-03,2020-09-16,Nicht eindeutig,,530,60.5,0
+2020-09-10,2020-09-23,Eindeutig,Ohne Angabe,17, 2.1,27
+2020-09-03,2020-09-16,Nicht eindeutig,,532,60.7,0
 2020-09-03,2020-09-16,Eindeutig,Eigener Haushalt,139,15.9,1
 2020-09-03,2020-09-16,Eindeutig,Im Haushalt von Freunden / Familie,49, 5.6,2
 2020-09-03,2020-09-16,Eindeutig,Arbeitsplatz,35, 4.0,3
 2020-09-03,2020-09-16,Eindeutig,Sekundarstufe II / Hochschule / Weiterbildungsstätte,6, 0.7,4
 2020-09-03,2020-09-16,Eindeutig,Obligatorische Schule,6, 0.7,5
 2020-09-03,2020-09-16,Eindeutig,Krippe,2,< 0.5,6
-2020-09-03,2020-09-16,Eindeutig,Reise Ausland,22, 2.5,7
+2020-09-03,2020-09-16,Eindeutig,Reise Ausland,21, 2.4,7
 2020-09-03,2020-09-16,Eindeutig,Reise Schweiz,2,< 0.5,8
 2020-09-03,2020-09-16,Eindeutig,Hotel oder andere Unterkunft,2,< 0.5,9
 2020-09-03,2020-09-16,Eindeutig,Schul- oder Ferienlager,1,< 0.5,10
@@ -52,15 +79,15 @@ from,until,context_bool,context_cat,n_conf,perc_conf,sort
 2020-09-03,2020-09-16,Eindeutig,Sonstige Freizeitaktivität draussen,5, 0.6,24
 2020-09-03,2020-09-16,Eindeutig,Einkaufen (Läden/Markt),1,< 0.5,25
 2020-09-03,2020-09-16,Eindeutig,Sonstige,1,< 0.5,26
-2020-09-03,2020-09-16,Eindeutig,Ohne Angabe,28, 3.2,27
-2020-08-27,2020-09-09,Nicht eindeutig,,556,60.3,0
-2020-08-27,2020-09-09,Eindeutig,Eigener Haushalt,141,15.3,1
+2020-09-03,2020-09-16,Eindeutig,Ohne Angabe,27, 3.1,27
+2020-08-27,2020-09-09,Nicht eindeutig,,558,60.5,0
+2020-08-27,2020-09-09,Eindeutig,Eigener Haushalt,142,15.4,1
 2020-08-27,2020-09-09,Eindeutig,Im Haushalt von Freunden / Familie,43, 4.7,2
-2020-08-27,2020-09-09,Eindeutig,Arbeitsplatz,43, 4.7,3
+2020-08-27,2020-09-09,Eindeutig,Arbeitsplatz,42, 4.6,3
 2020-08-27,2020-09-09,Eindeutig,Sekundarstufe II / Hochschule / Weiterbildungsstätte,5, 0.5,4
 2020-08-27,2020-09-09,Eindeutig,Obligatorische Schule,7, 0.8,5
 2020-08-27,2020-09-09,Eindeutig,Krippe,1,< 0.5,6
-2020-08-27,2020-09-09,Eindeutig,Reise Ausland,29, 3.1,7
+2020-08-27,2020-09-09,Eindeutig,Reise Ausland,28, 3.0,7
 2020-08-27,2020-09-09,Eindeutig,Reise Schweiz,4,< 0.5,8
 2020-08-27,2020-09-09,Eindeutig,Hotel oder andere Unterkunft,2,< 0.5,9
 2020-08-27,2020-09-09,Eindeutig,Schul- oder Ferienlager,4,< 0.5,10
@@ -79,11 +106,11 @@ from,until,context_bool,context_cat,n_conf,perc_conf,sort
 2020-08-27,2020-09-09,Eindeutig,Sonstige Freizeitaktivität draussen,6, 0.7,24
 2020-08-27,2020-09-09,Eindeutig,Einkaufen (Läden/Markt),0,0,25
 2020-08-27,2020-09-09,Eindeutig,Sonstige,2,< 0.5,26
-2020-08-27,2020-09-09,Eindeutig,Ohne Angabe,30, 3.3,27
-2020-08-20,2020-09-02,Nicht eindeutig,,540,59.7,0
-2020-08-20,2020-09-02,Eindeutig,Eigener Haushalt,144,15.9,1
+2020-08-27,2020-09-09,Eindeutig,Ohne Angabe,29, 3.1,27
+2020-08-20,2020-09-02,Nicht eindeutig,,541,59.8,0
+2020-08-20,2020-09-02,Eindeutig,Eigener Haushalt,145,16.0,1
 2020-08-20,2020-09-02,Eindeutig,Im Haushalt von Freunden / Familie,35, 3.9,2
-2020-08-20,2020-09-02,Eindeutig,Arbeitsplatz,44, 4.9,3
+2020-08-20,2020-09-02,Eindeutig,Arbeitsplatz,43, 4.8,3
 2020-08-20,2020-09-02,Eindeutig,Sekundarstufe II / Hochschule / Weiterbildungsstätte,5, 0.6,4
 2020-08-20,2020-09-02,Eindeutig,Obligatorische Schule,8, 0.9,5
 2020-08-20,2020-09-02,Eindeutig,Krippe,1,< 0.5,6
@@ -106,7 +133,7 @@ from,until,context_bool,context_cat,n_conf,perc_conf,sort
 2020-08-20,2020-09-02,Eindeutig,Sonstige Freizeitaktivität draussen,8, 0.9,24
 2020-08-20,2020-09-02,Eindeutig,Einkaufen (Läden/Markt),0,0,25
 2020-08-20,2020-09-02,Eindeutig,Sonstige,2,< 0.5,26
-2020-08-20,2020-09-02,Eindeutig,Ohne Angabe,22, 2.4,27
+2020-08-20,2020-09-02,Eindeutig,Ohne Angabe,21, 2.3,27
 2020-08-13,2020-08-26,Nicht eindeutig,,511,61.9,0
 2020-08-13,2020-08-26,Eindeutig,Eigener Haushalt,114,13.8,1
 2020-08-13,2020-08-26,Eindeutig,Im Haushalt von Freunden / Familie,31, 3.8,2
@@ -242,10 +269,10 @@ from,until,context_bool,context_cat,n_conf,perc_conf,sort
 2020-07-16,2020-07-29,Eindeutig,Einkaufen (Läden/Markt),0,0,25
 2020-07-16,2020-07-29,Eindeutig,Sonstige,0,0,26
 2020-07-16,2020-07-29,Eindeutig,Ohne Angabe,1,< 0.5,27
-2020-07-09,2020-07-22,Nicht eindeutig,,201,65.5,0
-2020-07-09,2020-07-22,Eindeutig,Eigener Haushalt,45,14.7,1
-2020-07-09,2020-07-22,Eindeutig,Im Haushalt von Freunden / Familie,14, 4.6,2
-2020-07-09,2020-07-22,Eindeutig,Arbeitsplatz,22, 7.2,3
+2020-07-09,2020-07-22,Nicht eindeutig,,201,65.3,0
+2020-07-09,2020-07-22,Eindeutig,Eigener Haushalt,45,14.6,1
+2020-07-09,2020-07-22,Eindeutig,Im Haushalt von Freunden / Familie,14, 4.5,2
+2020-07-09,2020-07-22,Eindeutig,Arbeitsplatz,23, 7.5,3
 2020-07-09,2020-07-22,Eindeutig,Sekundarstufe II / Hochschule / Weiterbildungsstätte,1,< 0.5,4
 2020-07-09,2020-07-22,Eindeutig,Obligatorische Schule,1,< 0.5,5
 2020-07-09,2020-07-22,Eindeutig,Krippe,5, 1.6,6
@@ -258,7 +285,7 @@ from,until,context_bool,context_cat,n_conf,perc_conf,sort
 2020-07-09,2020-07-22,Eindeutig,Kino / Theater / Konzert,0,0,13
 2020-07-09,2020-07-22,Eindeutig,Veranstaltung / Feier < 300 Pers.,0,0,14
 2020-07-09,2020-07-22,Eindeutig,Religiöses / Beerdigungen,0,0,16
-2020-07-09,2020-07-22,Eindeutig,Verein,2, 0.7,17
+2020-07-09,2020-07-22,Eindeutig,Verein,2, 0.6,17
 2020-07-09,2020-07-22,Eindeutig,Pflege- / Altersheim,1,< 0.5,18
 2020-07-09,2020-07-22,Eindeutig,Medizin. Einrichtung,1,< 0.5,19
 2020-07-09,2020-07-22,Eindeutig,"Friseur, Massage o.ä.",0,0,20
@@ -269,10 +296,10 @@ from,until,context_bool,context_cat,n_conf,perc_conf,sort
 2020-07-09,2020-07-22,Eindeutig,Einkaufen (Läden/Markt),0,0,25
 2020-07-09,2020-07-22,Eindeutig,Sonstige,0,0,26
 2020-07-09,2020-07-22,Eindeutig,Ohne Angabe,1,< 0.5,27
-2020-07-02,2020-07-15,Nicht eindeutig,,208,70.5,0
+2020-07-02,2020-07-15,Nicht eindeutig,,208,70.3,0
 2020-07-02,2020-07-15,Eindeutig,Eigener Haushalt,47,15.9,1
 2020-07-02,2020-07-15,Eindeutig,Im Haushalt von Freunden / Familie,12, 4.1,2
-2020-07-02,2020-07-15,Eindeutig,Arbeitsplatz,16, 5.4,3
+2020-07-02,2020-07-15,Eindeutig,Arbeitsplatz,17, 5.7,3
 2020-07-02,2020-07-15,Eindeutig,Sekundarstufe II / Hochschule / Weiterbildungsstätte,1,< 0.5,4
 2020-07-02,2020-07-15,Eindeutig,Obligatorische Schule,1,< 0.5,5
 2020-07-02,2020-07-15,Eindeutig,Krippe,1,< 0.5,6
@@ -350,10 +377,10 @@ from,until,context_bool,context_cat,n_conf,perc_conf,sort
 2020-06-18,2020-07-01,Eindeutig,Einkaufen (Läden/Markt),0,0,25
 2020-06-18,2020-07-01,Eindeutig,Sonstige,0,0,26
 2020-06-18,2020-07-01,Eindeutig,Ohne Angabe,0,0,27
-2020-06-11,2020-06-24,Nicht eindeutig,,50,64.9,0
-2020-06-11,2020-06-24,Eindeutig,Eigener Haushalt,17,22.1,1
+2020-06-11,2020-06-24,Nicht eindeutig,,49,64.5,0
+2020-06-11,2020-06-24,Eindeutig,Eigener Haushalt,17,22.4,1
 2020-06-11,2020-06-24,Eindeutig,Im Haushalt von Freunden / Familie,0,0,2
-2020-06-11,2020-06-24,Eindeutig,Arbeitsplatz,7, 9.1,3
+2020-06-11,2020-06-24,Eindeutig,Arbeitsplatz,7, 9.2,3
 2020-06-11,2020-06-24,Eindeutig,Sekundarstufe II / Hochschule / Weiterbildungsstätte,0,0,4
 2020-06-11,2020-06-24,Eindeutig,Obligatorische Schule,0,0,5
 2020-06-11,2020-06-24,Eindeutig,Krippe,0,0,6
@@ -377,14 +404,14 @@ from,until,context_bool,context_cat,n_conf,perc_conf,sort
 2020-06-11,2020-06-24,Eindeutig,Einkaufen (Läden/Markt),0,0,25
 2020-06-11,2020-06-24,Eindeutig,Sonstige,0,0,26
 2020-06-11,2020-06-24,Eindeutig,Ohne Angabe,0,0,27
-2020-06-04,2020-06-17,Nicht eindeutig,,35,67.3,0
-2020-06-04,2020-06-17,Eindeutig,Eigener Haushalt,11,21.2,1
+2020-06-04,2020-06-17,Nicht eindeutig,,34,66.7,0
+2020-06-04,2020-06-17,Eindeutig,Eigener Haushalt,11,21.6,1
 2020-06-04,2020-06-17,Eindeutig,Im Haushalt von Freunden / Familie,0,0,2
-2020-06-04,2020-06-17,Eindeutig,Arbeitsplatz,5, 9.6,3
+2020-06-04,2020-06-17,Eindeutig,Arbeitsplatz,5, 9.8,3
 2020-06-04,2020-06-17,Eindeutig,Sekundarstufe II / Hochschule / Weiterbildungsstätte,0,0,4
 2020-06-04,2020-06-17,Eindeutig,Obligatorische Schule,0,0,5
 2020-06-04,2020-06-17,Eindeutig,Krippe,0,0,6
-2020-06-04,2020-06-17,Eindeutig,Reise Ausland,1, 1.9,7
+2020-06-04,2020-06-17,Eindeutig,Reise Ausland,1, 2.0,7
 2020-06-04,2020-06-17,Eindeutig,Reise Schweiz,0,0,8
 2020-06-04,2020-06-17,Eindeutig,Hotel oder andere Unterkunft,0,0,9
 2020-06-04,2020-06-17,Eindeutig,Schul- oder Ferienlager,0,0,10
