@@ -1,0 +1,29 @@
+from,until,context_bool,context_cat,n_conf,perc_conf,sort
+2020-05-14,2020-10-21,Nicht eindeutig,,5689,71.2,0
+2020-05-14,2020-10-21,Eindeutig,Eigener Haushalt,814,10.2,1
+2020-05-14,2020-10-21,Eindeutig,Im Haushalt von Freunden / Familie,251, 3.1,2
+2020-05-14,2020-10-21,Eindeutig,Arbeitsplatz,214, 2.7,3
+2020-05-14,2020-10-21,Eindeutig,Sekundarstufe II / Hochschule / Weiterbildungsstätte,33,< 0.5,4
+2020-05-14,2020-10-21,Eindeutig,Obligatorische Schule,21,< 0.5,5
+2020-05-14,2020-10-21,Eindeutig,Krippe,13,< 0.5,6
+2020-05-14,2020-10-21,Eindeutig,Armee / Zivilschutz,1,< 0.5,7
+2020-05-14,2020-10-21,Eindeutig,Reise Ausland,390, 4.9,8
+2020-05-14,2020-10-21,Eindeutig,Reise Schweiz,19,< 0.5,9
+2020-05-14,2020-10-21,Eindeutig,Hotel oder andere Unterkunft,10,< 0.5,10
+2020-05-14,2020-10-21,Eindeutig,Schul- oder Ferienlager,7,< 0.5,11
+2020-05-14,2020-10-21,Eindeutig,Club / Bar,79, 1.0,12
+2020-05-14,2020-10-21,Eindeutig,Restaurant,73, 0.9,13
+2020-05-14,2020-10-21,Eindeutig,Kino / Theater / Konzert,1,< 0.5,14
+2020-05-14,2020-10-21,Eindeutig,Veranstaltung / Feier < 300 Pers.,51, 0.6,15
+2020-05-14,2020-10-21,Eindeutig,Religiöses / Beerdigungen,9,< 0.5,17
+2020-05-14,2020-10-21,Eindeutig,Verein,13,< 0.5,18
+2020-05-14,2020-10-21,Eindeutig,Pflege- / Altersheim,16,< 0.5,19
+2020-05-14,2020-10-21,Eindeutig,Medizin. Einrichtung,33,< 0.5,20
+2020-05-14,2020-10-21,Eindeutig,"Friseur, Massage o.ä.",2,< 0.5,21
+2020-05-14,2020-10-21,Eindeutig,Sport in der Halle,24,< 0.5,22
+2020-05-14,2020-10-21,Eindeutig,Sport im Freien,27,< 0.5,23
+2020-05-14,2020-10-21,Eindeutig,Sonstige Freizeitaktivität drinnen,36,< 0.5,24
+2020-05-14,2020-10-21,Eindeutig,Sonstige Freizeitaktivität draussen,21,< 0.5,25
+2020-05-14,2020-10-21,Eindeutig,Einkaufen (Läden/Markt),1,< 0.5,26
+2020-05-14,2020-10-21,Eindeutig,Sonstige,4,< 0.5,27
+2020-05-14,2020-10-21,Eindeutig,Ohne Angabe,142, 1.8,28
