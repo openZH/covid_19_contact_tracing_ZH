@@ -5,7 +5,7 @@
 
 [![GitHub commit](https://img.shields.io/github/last-commit/openZH/covid_19)](https://github.com/openZH/covid_19_contact_tracing_ZH/commits/master)
 
-**Die Gesundheitsdirektion Kanton Zürich veröffentlicht im Rahmen des kantonalen Contact Tracings erhobene Daten zum Ansteckungskontext SARS-CoV-2-positiv getesteter Personen im Kanton Zürich. . Die Daten 2020 wurden mit einem anderen Instrument erhoben als die Daten 2021. Die Daten 2020 und 2021 sind darum nur bedingt vergleichbar. **
+**Die Gesundheitsdirektion Kanton Zürich veröffentlicht im Rahmen des kantonalen Contact Tracings erhobene Daten zum Ansteckungskontext SARS-CoV-2-positiv getesteter Personen im Kanton Zürich. Die Daten 2020 wurden mit einem anderen Instrument erhoben als die Daten 2021. Die Daten 2020 und 2021 sind darum nur bedingt vergleichbar.**
 
 # Definitionen
 - Als «eindeutig» gilt ein Ansteckungskontext, wenn die befragte Person mit grosser Sicherheit sagen kann, bei wem sie sich angesteckt hat resp. weiss, dass sie in Kontakt mit einer positiv getesteten Person war.
