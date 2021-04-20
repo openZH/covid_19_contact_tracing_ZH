@@ -35,7 +35,7 @@ Für Fragen zur Bereitstellung der Daten erreichen Sie die [Fach- und Koordinati
 
 # Datenaktualisierung
 
-Diese Daten werden wöchentlich am Dienstag bis 16.00 jeweils für die Vorwoche aktualisiert.
+Diese Daten werden wöchentlich am Dienstag bis 16:00 Uhr jeweils für die Vorwoche aktualisiert.
 
 # Datenstruktur
 
