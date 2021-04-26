@@ -1,50 +1,49 @@
 from,until,context_bool,context_cat,n_conf,perc_conf,sort
-2021-01-04,2021-04-18,Eindeutig,Eigener Haushalt,4719,14.6,1
-2021-01-04,2021-04-18,Eindeutig,Im Haushalt von Freunden / Familie,1977,6.1,2
-2021-01-04,2021-04-18,Eindeutig,Arbeitsplatz,1236,3.8,3
-2021-01-04,2021-04-18,Eindeutig,Sekundarstufe II / Hochschule / Weiterbildungsstätte,44,0.1,4
-2021-01-04,2021-04-18,Eindeutig,Obligatorische Schule,263,0.8,5
-2021-01-04,2021-04-18,Eindeutig,Krippe,76,0.2,6
-2021-01-04,2021-04-18,Eindeutig,Armee / Zivilschutz,12,0,7
-2021-01-04,2021-04-18,Eindeutig,Reise Ausland,72,0.2,8
-2021-01-04,2021-04-18,Eindeutig,Reise Schweiz,102,0.3,9
-2021-01-04,2021-04-18,Eindeutig,Hotel oder andere Unterkunft,46,0.1,10
-2021-01-04,2021-04-18,Eindeutig,Club / Bar,1,0,12
-2021-01-04,2021-04-18,Eindeutig,Restaurant,5,0,13
-2021-01-04,2021-04-18,Eindeutig,Kino / Theater / Konzert,1,0,14
-2021-01-04,2021-04-18,Eindeutig,Veranstaltung / Feier < 300 Pers.,7,0,15
-2021-01-04,2021-04-18,Eindeutig,Religiöses / Beerdigungen,2,0,17
-2021-01-04,2021-04-18,Eindeutig,Verein,3,0,18
-2021-01-04,2021-04-18,Eindeutig,Pflege- / Altersheim,114,0.4,19
-2021-01-04,2021-04-18,Eindeutig,Medizin. Einrichtung,47,0.1,20
-2021-01-04,2021-04-18,Eindeutig,Friseur / Massage o.ä.,6,0,21
-2021-01-04,2021-04-18,Eindeutig,Sport in der Halle,22,0.1,22
-2021-01-04,2021-04-18,Eindeutig,Sport im Freien,39,0.1,23
-2021-01-04,2021-04-18,Eindeutig,Einkaufen (Läden/Markt),141,0.4,26
-2021-01-04,2021-04-18,Eindeutig,Sonstige,625,1.9,27
-2021-01-04,2021-04-18,Eindeutig,Ohne Angabe,0,0,28
-2021-01-04,2021-04-18,nicht befragt,nicht befragt,12898,39.8,0
-2021-01-04,2021-04-18,Vermutet,Eigener Haushalt,418,1.3,1
-2021-01-04,2021-04-18,Vermutet,Im Haushalt von Freunden / Familie,412,1.3,2
-2021-01-04,2021-04-18,Vermutet,Arbeitsplatz,438,1.4,3
-2021-01-04,2021-04-18,Vermutet,Sekundarstufe II / Hochschule / Weiterbildungsstätte,15,0,4
-2021-01-04,2021-04-18,Vermutet,Obligatorische Schule,100,0.3,5
-2021-01-04,2021-04-18,Vermutet,Krippe,18,0.1,6
-2021-01-04,2021-04-18,Vermutet,Armee / Zivilschutz,4,0,7
-2021-01-04,2021-04-18,Vermutet,Reise Ausland,51,0.2,8
-2021-01-04,2021-04-18,Vermutet,Reise Schweiz,232,0.7,9
-2021-01-04,2021-04-18,Vermutet,Hotel oder andere Unterkunft,26,0.1,10
-2021-01-04,2021-04-18,Vermutet,Club / Bar,0,0,12
-2021-01-04,2021-04-18,Vermutet,Restaurant,4,0,13
-2021-01-04,2021-04-18,Vermutet,Kino / Theater / Konzert,1,0,14
-2021-01-04,2021-04-18,Vermutet,Veranstaltung / Feier < 300 Pers.,2,0,15
-2021-01-04,2021-04-18,Vermutet,Religiöses / Beerdigungen,2,0,17
-2021-01-04,2021-04-18,Vermutet,Verein,1,0,18
-2021-01-04,2021-04-18,Vermutet,Pflege- / Altersheim,7,0,19
-2021-01-04,2021-04-18,Vermutet,Medizin. Einrichtung,43,0.1,20
-2021-01-04,2021-04-18,Vermutet,Friseur / Massage o.ä.,7,0,21
-2021-01-04,2021-04-18,Vermutet,Sport in der Halle,6,0,22
-2021-01-04,2021-04-18,Vermutet,Sport im Freien,42,0.1,23
-2021-01-04,2021-04-18,Vermutet,Einkaufen (Läden/Markt),289,0.9,26
-2021-01-04,2021-04-18,Vermutet,Sonstige,330,1,27
-2021-01-04,2021-04-18,Vermutet,Ohne Angabe,7511,23.2,28
+2021-01-04,2021-04-25,Eindeutig,Eigener Haushalt,5207,23.9,1
+2021-01-04,2021-04-25,Eindeutig,Im Haushalt von Freunden / Familie,2205,10.1,2
+2021-01-04,2021-04-25,Eindeutig,Arbeitsplatz,1330,6.1,3
+2021-01-04,2021-04-25,Eindeutig,Sekundarstufe II / Hochschule / Weiterbildungsstätte,51,0.2,4
+2021-01-04,2021-04-25,Eindeutig,Obligatorische Schule,300,1.4,5
+2021-01-04,2021-04-25,Eindeutig,Krippe,91,0.4,6
+2021-01-04,2021-04-25,Eindeutig,Armee / Zivilschutz,13,0.1,7
+2021-01-04,2021-04-25,Eindeutig,Reise Ausland,78,0.4,8
+2021-01-04,2021-04-25,Eindeutig,Reise Schweiz,109,0.5,9
+2021-01-04,2021-04-25,Eindeutig,Hotel oder andere Unterkunft,49,0.2,10
+2021-01-04,2021-04-25,Eindeutig,Club / Bar,1,0,12
+2021-01-04,2021-04-25,Eindeutig,Restaurant,5,0,13
+2021-01-04,2021-04-25,Eindeutig,Kino / Theater / Konzert,1,0,14
+2021-01-04,2021-04-25,Eindeutig,Veranstaltung / Feier < 300 Pers.,7,0,15
+2021-01-04,2021-04-25,Eindeutig,Religiöses / Beerdigungen,2,0,17
+2021-01-04,2021-04-25,Eindeutig,Verein,4,0,18
+2021-01-04,2021-04-25,Eindeutig,Pflege- / Altersheim,559,2.6,19
+2021-01-04,2021-04-25,Eindeutig,Medizin. Einrichtung,50,0.2,20
+2021-01-04,2021-04-25,Eindeutig,Friseur / Massage o.ä.,7,0,21
+2021-01-04,2021-04-25,Eindeutig,Sport in der Halle,24,0.1,22
+2021-01-04,2021-04-25,Eindeutig,Sport im Freien,42,0.2,23
+2021-01-04,2021-04-25,Eindeutig,Einkaufen (Läden/Markt),148,0.7,26
+2021-01-04,2021-04-25,Eindeutig,Sonstige,423,1.9,27
+2021-01-04,2021-04-25,Eindeutig,Ohne Angabe,0,0,28
+2021-01-04,2021-04-25,Vermutet,Eigener Haushalt,494,2.3,1
+2021-01-04,2021-04-25,Vermutet,Im Haushalt von Freunden / Familie,455,2.1,2
+2021-01-04,2021-04-25,Vermutet,Arbeitsplatz,486,2.2,3
+2021-01-04,2021-04-25,Vermutet,Sekundarstufe II / Hochschule / Weiterbildungsstätte,19,0.1,4
+2021-01-04,2021-04-25,Vermutet,Obligatorische Schule,114,0.5,5
+2021-01-04,2021-04-25,Vermutet,Krippe,18,0.1,6
+2021-01-04,2021-04-25,Vermutet,Armee / Zivilschutz,4,0,7
+2021-01-04,2021-04-25,Vermutet,Reise Ausland,57,0.3,8
+2021-01-04,2021-04-25,Vermutet,Reise Schweiz,248,1.1,9
+2021-01-04,2021-04-25,Vermutet,Hotel oder andere Unterkunft,29,0.1,10
+2021-01-04,2021-04-25,Vermutet,Club / Bar,0,0,12
+2021-01-04,2021-04-25,Vermutet,Restaurant,4,0,13
+2021-01-04,2021-04-25,Vermutet,Kino / Theater / Konzert,1,0,14
+2021-01-04,2021-04-25,Vermutet,Veranstaltung / Feier < 300 Pers.,3,0,15
+2021-01-04,2021-04-25,Vermutet,Religiöses / Beerdigungen,2,0,17
+2021-01-04,2021-04-25,Vermutet,Verein,1,0,18
+2021-01-04,2021-04-25,Vermutet,Pflege- / Altersheim,7,0,19
+2021-01-04,2021-04-25,Vermutet,Medizin. Einrichtung,44,0.2,20
+2021-01-04,2021-04-25,Vermutet,Friseur / Massage o.ä.,7,0,21
+2021-01-04,2021-04-25,Vermutet,Sport in der Halle,6,0,22
+2021-01-04,2021-04-25,Vermutet,Sport im Freien,42,0.2,23
+2021-01-04,2021-04-25,Vermutet,Einkaufen (Läden/Markt),314,1.4,26
+2021-01-04,2021-04-25,Vermutet,Sonstige,354,1.6,27
+2021-01-04,2021-04-25,Vermutet,Ohne Angabe,8360,38.4,28
